@@ -1,3 +1,1 @@
-Embed here.
-
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FChicago&bgcolor=%23ffffff&mode=AGENDA&title=Daniel&src=ZGFuaWVsLmZldGxpZmVAZ21haWwuY29t&src=azg2b3E0NzkzYmt1Ymd2NDQwa242ZXQ0MGNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&color=%234285F4&color=%23E67C73" style="border-width:0" width="1200" height="600" frameborder="0" scrolling="no"></iframe>
